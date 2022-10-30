@@ -21,6 +21,7 @@ const Interpolate: FC = () => {
       onScroll={scrollHandler}
       horizontal
       pagingEnabled
+      showsHorizontalScrollIndicator={false}
       style={styles.container}
     >
       {WORDS.map((title, index) => (
