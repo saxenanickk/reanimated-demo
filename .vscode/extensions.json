@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "eamodio.gitlens",
+    "esbenp.prettier-vscode",
+    "ms-vscode.vscode-typescript-next",
+    "VisualStudioExptTeam.vscodeintellicode",
+    "dbaeumer.vscode-eslint"
+  ],
+  "unwantedRecommendations": ["eg2.tslint"]
+}
