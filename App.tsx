@@ -1,4 +1,5 @@
 import { StyleSheet, View } from "react-native";
+import { PinchGestureHandlerDemo } from "./src/PinchGestureHandlerDemo";
 import { ThemeSwitch } from "./src/ThemeSwitch";
 
 export default function App() {
@@ -7,7 +8,8 @@ export default function App() {
       {/* <SquareRotation /> */}
       {/* <PanGestureHandlerDemo /> */}
       {/* <Interpolate /> */}
-      <ThemeSwitch />
+      {/* <ThemeSwitch /> */}
+      <PinchGestureHandlerDemo />
     </View>
   );
 }
